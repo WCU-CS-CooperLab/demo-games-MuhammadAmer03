@@ -11,7 +11,7 @@ A template repository to publish games
 
 [Coin Dash Sept06 Final Scene](coin_dash_final_scene)
 
-[Player Scene 9_09](player_scene_9_09)
+[Player Scene 9_09](space_rocks_9_09_fixed)
 
 
 Coin Dash Link : https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/player_scene/
