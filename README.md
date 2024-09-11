@@ -20,4 +20,3 @@ A template repository to publish games
 [Space Rocks 9/11](space_rocks_09_11)
 
 
-Coin Dash Link : https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/player_scene/
