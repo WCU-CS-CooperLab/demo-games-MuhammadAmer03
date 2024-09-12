@@ -17,11 +17,7 @@ A template repository to publish games
 
 [Player Scene 9_09](space_rocks_9_09_fixed)
 
-[Space Rocks 9/11](space_rocks_09_11)
-
-[Space Rocks 9/11 With Debug](space_rocks_09_11_DEBUG)
-
-[Space Rocks 9/11 With test](space_rocks_09_11_fixed/)
+[Space Rocks 9/11 test](space_rocks_09_11_fixed/)
 
 
 
