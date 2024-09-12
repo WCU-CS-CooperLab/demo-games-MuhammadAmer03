@@ -19,6 +19,10 @@ A template repository to publish games
 
 [Space Rocks 9/11 test](space_rocks_09_11_fixed/)
 
+[Space Rocks 9/11 test with debug](space_rocks_09_11/)
+
+
+
 
 
 
