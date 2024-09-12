@@ -21,6 +21,14 @@ A template repository to publish games
 
 [Space Rocks 9/11 test with debug](space_rocks_09_11/)
 
+# Project 1: Coin Zoombies Draft
+
+
+Phase 1: I still need to add
+
+
+Phase 2: [Coin Zoombies](Coin-Zoombies_Phase2_Draft/)
+
 
 
 
