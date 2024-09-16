@@ -25,7 +25,7 @@ A template repository to publish games
 # Project 1: Coin Zoombies Draft
 
 
-Phase 1: I still need to add
+Phase 1: [Coin Dash](coin_dash_phase_1/)
 
 
 Phase 2: [Coin Zoombies](Coin-Zoombies_Phase2_Draft/)
