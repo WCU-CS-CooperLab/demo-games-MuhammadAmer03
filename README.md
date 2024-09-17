@@ -22,7 +22,7 @@ A template repository to publish games
 [Space Rocks 09/13](space_rocks_09_13)
 
 
-# Project 1: Coin Zoombies Draft
+# Project 1: Coin Zoombies
 
 
 Phase 1: [Coin Dash](coin_dash_phase_1/)
