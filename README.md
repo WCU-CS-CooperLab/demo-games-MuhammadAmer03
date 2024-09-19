@@ -30,7 +30,7 @@ A template repository to publish games
 Phase 1: [Coin Dash](coin_dash_phase_1/)
 
 
-Phase 2: [Coin Zoombies](coin_zoombies_phase_2/)
+Phase 2: [Coin Zoombies](coin_zoombies_phase_2_final)
 
 
 
