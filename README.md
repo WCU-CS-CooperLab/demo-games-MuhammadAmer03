@@ -23,7 +23,7 @@ A template repository to publish games
 
 [Space Rocks 09/16](space_rocks_09_16)
 
-[Space Rocks Final](space_rocks_final)
+[Space Rocks Final Scene](space_rocks_final)
 
 # 3D MiniGolf
 
