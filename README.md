@@ -45,7 +45,7 @@ Phase 1: [Coin Dash](coin_dash_phase_1/)
 
 Phase 2: [Coin Zoombies](coin_zoombies_phase_2_final)
 
-# Project 1: Space Rocks Extension
+# Project 2: Space Rocks
 
 Phase 1: [Space Rocks](space_rocks_final) - Mostly Complete. I just have to fix the screen and counter.
 
