@@ -48,6 +48,8 @@ Phase 2: [Coin Zoombies](coin_zoombies_phase_2_final)
 # Project 1: Space Rocks Extension
 
 Phase 1: [Space Rocks](space_rocks_final) - Mostly Complete. I just have to fix the screen and counter.
+
+
 Phase 2: I am still working on phase 2. My idea was to add another player, add a powerup randomly when a rock is shot, change the theme, and add maybe new scenes, but still not sure yet.
 
 
