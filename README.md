@@ -32,7 +32,7 @@ A template repository to publish games
 
 [3D MiniGolf 09/23](3d_mini_golf_09_23/)
 
-#Jungle Jump
+# Jungle Jump
 
 [Jungle Jump 10/04](jungle_jump_Oct_4)
 
