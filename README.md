@@ -27,6 +27,8 @@ A template repository to publish games
 
 [Space Rocks Full Screen Test](space_rocks_fullscreen_test)
 
+[Space Rocks Full Screen Test 2](space_rocks_phase_1_test)
+
 
 # 3D MiniGolf
 
