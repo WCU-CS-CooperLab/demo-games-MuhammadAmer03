@@ -41,7 +41,9 @@ A template repository to publish games
 # Jungle Jump
 
 [Jungle Jump 10/04](jungle_jump_Oct_4)
+
 [Jungle Jump 10/07](jungle_jump_10_07)
+
 [Jungle Jump 10/09](jungle_jump_10_09)
 
 
