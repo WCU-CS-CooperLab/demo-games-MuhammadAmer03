@@ -42,7 +42,9 @@ https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/
 
 # Infinite Flyer
 [Infinite Flyer 10/16](infinite_flyer_10_16)
+
 [Infinite Flyer 10/18](infinite_flyer_10_18)
+
 [Infinite Flyer 10/21](infinite_flyer_10_21)
 
 # Projects
