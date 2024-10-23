@@ -3,6 +3,9 @@ A template repository to publish games
 
 [Helper Files](helper_files)
 
+# Demo Games Link
+https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/
+
 # Coin Dash
 
 [Coin Dash](player_scene/)
