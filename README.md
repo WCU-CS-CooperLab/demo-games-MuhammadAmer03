@@ -63,6 +63,10 @@ Phase 1: [Space Rocks](space_rocks_phase_1)
 
 Phase 2: [JetVInvaders](space_rocks_phase_2)
 
+# Project #3: 3D MiniGolf
+
+- I am still working on updating the phases. I am considering add more levels, different designs, shot type (hole-in-one), and music.
+
 
 
 
