@@ -71,7 +71,9 @@ Phase 2: [JetVInvaders](space_rocks_phase_2)
 
 # Project  1: Treasure Parkour
 
-[Treasure Parkour](treasure-parkour)
+[Treasure Parkour](treasure-parkour) 
+# The game is currently not working as expected. I am currently trying to debug it and figure out what is causing this. It works fine locally, but our group is looking into it
+
 
 
 
