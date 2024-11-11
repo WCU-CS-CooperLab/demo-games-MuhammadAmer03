@@ -71,8 +71,8 @@ Phase 2: [JetVInvaders](space_rocks_phase_2)
 
 # Project  1: Treasure Parkour
 
-[Treasure Parkour](treasure-parkour) 
-# The game online is currently not working as expected. I am currently trying to debug it and figure out what is causing this. It works fine locally, but our group is looking into it
+[Treasure Parkour](treasure_parkour) 
+# The game online is currently not full working as expected. The level one tutorial scene is broken due to ball scene being not loaded.
 
 
 
