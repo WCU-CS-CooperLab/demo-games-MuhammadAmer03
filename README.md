@@ -72,7 +72,7 @@ Phase 2: [JetVInvaders](space_rocks_phase_2)
 # Project  1: Treasure Parkour
 
 [Treasure Parkour](treasure_parkour) 
-# The game online is currently not full working as expected. The level one tutorial scene is broken due to ball scene being not loaded.
+# The game online is currently not full working as expected. The level one tutorial scene is broken due to ball scene being not loaded. A group member is currently looking into it.
 
 
 
