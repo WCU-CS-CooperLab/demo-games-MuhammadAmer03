@@ -73,7 +73,7 @@ Phase 2: [JetVInvaders](space_rocks_phase_2)
 
 [Treasure Parkour](treasure_parkour) 
 
-[Treasure Parkour](treasure_parkour_with_skip) 
+[Treasure Parkour With Skip](treasure_parkour_with_skip) 
 
 - Please read before playing,
   - Currently the tutorial scene is not working as expected because the asset is not getting the item properly and the sky scene is not working as expected. 
