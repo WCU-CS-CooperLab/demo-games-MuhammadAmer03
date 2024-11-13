@@ -72,7 +72,19 @@ Phase 2: [JetVInvaders](space_rocks_phase_2)
 # Project  1: Treasure Parkour
 
 [Treasure Parkour](treasure_parkour) 
-# The game online is currently not full working as expected. The level one tutorial scene is broken due to ball scene being not loaded. A group member is currently looking into it. I temporarily remove the balls from the scenee.
+
+[Treasure Parkour](treasure_parkour_with_skip) 
+
+- Please read before playing,
+  - Currently the tutorial scene is not working as expected because the asset is not getting the item properly and the sky scene is not working as expected. 
+  - The controls for the game are
+      - shift to dash
+      - WASD to Move and the mouse
+      - space to jump
+      - For the professor I added a skip function that will help to view all the levels we did.
+  I removes the ball scene which was causing the issue temporarily our group member is currently working on fixing the scenes. 
+
+
 
 
 
