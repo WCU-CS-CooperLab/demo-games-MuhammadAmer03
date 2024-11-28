@@ -76,6 +76,10 @@ This is to test the levels to see how it works because the game might be tough.
 
 - I am still working on updating phase 2. I am considering add more levels, different designs, shot type (hole-in-one), and music. I am trying to balance the group project and will hopefully get my work in as soon as I can. Sorry, for the delay.
 
+# Project #4: FirstTo50
+
+- I am mostly done, I uploaded it running locally on my workbench, but need to configure a restart because it is different from using server screen and is similar to the level platformer. I was having trouble, so hopefully I can update it later on Thursday.
+
 # Team Projects
 
 # Project  1: Treasure Parkour
