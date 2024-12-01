@@ -76,9 +76,14 @@ This is to test the levels to see how it works because the game might be tough.
 
 - I am still working on updating phase 2. I am considering add more levels, different designs, shot type (hole-in-one), and music. I am trying to balance the group project and will hopefully get my work in as soon as I can. Sorry, for the delay.
 
-# Project #4: FirstTo50
+# Project #4: FirstToTen
 
-- I am mostly done, I uploaded it running locally on my workbench, but need to configure a restart because it is different from using server screen and is similar to the level platformer. I was having trouble, so hopefully I can update it later on Thursday.
+- If you are playing this game please make sure to play with two people or more. The other thing is once a game is started please finish and restart the game, this makes sure the server remains on the right screen. If you want to leave the game shoot one player, hit restart, and both can exit the client login screen. Also, hope you enjoy the game. :)
+  
+MacOS: [FirstToTen](first_to_ten.dmg.zip)
+
+Windows: [FirstToTen](first_to_ten.exe.zip)
+
 
 # Team Projects
 
