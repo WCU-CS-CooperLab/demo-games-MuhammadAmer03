@@ -84,6 +84,8 @@ MacOS: [FirstToTen](first_to_ten.dmg.zip)
 
 Windows: [FirstToTen](first_to_ten.exe.zip)
 
+Edit: Currently fixing an issue for exceutables for security issue and windows one is not working properly.
+
 
 # Team Projects
 
