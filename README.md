@@ -84,7 +84,7 @@ MacOS: [FirstToTen](first_to_ten.dmg.zip)
 
 Windows: [FirstToTen](first_to_ten.exe.zip)
 
-Edit: Currently fixing an issue for exceutables for security issue and windows one is not working properly.
+Edit: MacOS is fine, but you have to allow it to run regardless of security through settings on Mac. For some reason when exporting the Windows exe, it caused an issue where it created two seperate files. I would have to export from Windows or see whether it's an issue with a godot setting.
 
 
 # Team Projects
