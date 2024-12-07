@@ -84,7 +84,7 @@ MacOS: [FirstToTen](MACOS.zip)
 
 Windows: [FirstToTen](Windows.zip)
 
-You can play the game now and make sure to run anyway for windows.
+You can play the game now and make sure to run anyway for Windows. On Mac, allow it to run through privacy settings.
 
 
 
@@ -107,10 +107,17 @@ You can play the game now and make sure to run anyway for windows.
       - For the professor I added a skip function that will help to view all the levels we did.
   I removes the ball scene which was causing the issue temporarily our group member is currently working on fixing the scenes. 
 
+# Project  2: Fruitocalypse
 
+- If you are playing this game please make sure to play with two people or more. The other thing is once a game is started please finish and restart the game, this makes sure the server remains on the right screen. If you want to leave the game beat the game, hit restart, and both can exit the client login screen. Also, hope you enjoy the game. :)
 
+[Fruitocalypse](FruitocalypseMACOS.zip) 
 
+[Fruitocalypse](FruitocalypseWindows.zip) 
 
+You can play the game now and make sure to run anyway for Windows. On Mac, allow it to run through privacy settings.
+
+# RIGHT NOW TEAM PROJECT 2 IS UP, BUT I HAVE TO MAKE SURE I CHANGE IT FROM PROJECT 4. RIGHT NOW YOU CAN'T TEST THE GAME.
 
 
 
