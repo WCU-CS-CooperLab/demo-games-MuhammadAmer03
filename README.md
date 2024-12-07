@@ -111,9 +111,9 @@ You can play the game now and make sure to run anyway for Windows. On Mac, allow
 
 - If you are playing this game please make sure to play with two people or more. The other thing is once a game is started please finish and restart the game, this makes sure the server remains on the right screen. If you want to leave the game beat the game, hit restart, and both can exit the client login screen. Also, hope you enjoy the game. :)
 
-[Fruitocalypse](FruitocalypseMACOS.zip) 
+[Fruitocalypse MACOS](FruitocalypseMACOS.zip) 
 
-[Fruitocalypse](FruitocalypseWindows.zip) 
+[Fruitocalypse Windows](FruitocalypseWindows.zip) 
 
 You can play the game now and make sure to run anyway for Windows. On Mac, allow it to run through privacy settings.
 
