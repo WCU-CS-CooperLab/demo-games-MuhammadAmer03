@@ -80,15 +80,14 @@ This is to test the levels to see how it works because the game might be tough.
 
 - If you are playing this game please make sure to play with two people or more. The other thing is once a game is started please finish and restart the game, this makes sure the server remains on the right screen. If you want to leave the game shoot one player, hit restart, and both can exit the client login screen. Also, hope you enjoy the game. :)
   
-MacOS: [FirstToTen](first_to_ten.dmg.zip)
+MacOS: [FirstToTen](MACOS.zip)
 
-Windows: [FirstToTen](first_to_ten.exe.zip)
+Windows: [FirstToTen](Windows.zip)
 
-MacOS2: [FirstToTen](MACOS.zip)
+You can play the game now and make sure to run anyway for windows.
 
-Windows2: [FirstToTen](Windows.zip)
 
-Edit: MacOS is fine, but you have to allow it to run regardless of security through settings on Mac. For some reason when exporting the Windows exe, it caused an issue where it created two seperate files. I would have to export from Windows or see whether it's an issue with a godot setting.
+
 
 
 # Team Projects
