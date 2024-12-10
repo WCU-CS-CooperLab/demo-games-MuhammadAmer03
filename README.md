@@ -117,7 +117,7 @@ You can play the game now and make sure to run anyway for Windows. On Mac, allow
 
 You can play the game now and make sure to run anyway for Windows. On Mac, allow it to run through privacy settings.
 
-# RIGHT NOW TEAM PROJECT 2 IS UP, BUT I HAVE TO MAKE SURE I CHANGE IT FROM PROJECT 4. RIGHT NOW YOU CAN'T TEST THE GAME.
+# I am pretty sure this is working now, so you can playtest the game properly. I will periodcally reset my server to ensure that everyone can play without any issues.
 
 
 
