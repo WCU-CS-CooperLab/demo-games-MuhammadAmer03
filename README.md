@@ -115,6 +115,8 @@ You can play the game now and make sure to run anyway for Windows. On Mac, allow
 
 [Fruitocalypse Windows](FruitocalypseWindows.zip) 
 
+# The username is user1 to user4, and the password is test for all of them. For example, you type user1 and the password test.
+
 You can play the game now and make sure to run anyway for Windows. On Mac, allow it to run through privacy settings.
 
 # I am pretty sure this is working now, so you can playtest the game properly. I will periodcally reset my server to ensure that everyone can play without any issues.
